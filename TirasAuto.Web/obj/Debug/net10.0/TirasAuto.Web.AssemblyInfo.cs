@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TirasAuto.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beb8f13dc98bd0792a8306164996df856d51c2bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("TirasAuto.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TirasAuto.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
